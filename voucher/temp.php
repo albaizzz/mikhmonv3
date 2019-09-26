@@ -1,1 +1,1 @@
-<?php $genu="vc-887-08.20.18--3Jam-3h-1000-0-0-Disable";?>
+<?php $genu="up-322-08.08.19-|~TRIAL-1M~2d~0~0~0~Enable";?>
